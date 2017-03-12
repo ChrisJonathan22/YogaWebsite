@@ -1,0 +1,122 @@
+html {
+    /*background-color: #00B233;*/
+    background-color: #077054;
+}
+
+#company-name {
+    color: lightgreen;
+    text-align: center;
+}
+
+#under-company-name {
+    color: white;
+    text-align: center;
+    margin-top: -15px;
+}
+
+#top-nav {
+    display: inline-block;
+    margin-left: 630px;
+    margin-top: -10px;
+}
+
+#top-nav a {
+    display: inline-block;
+   text-decoration: none; 
+    padding: 15px 15px;
+    margin: 20px;
+    color: white;
+    /*background-color:*/ 
+}
+
+#top-nav a:hover {
+    text-decoration: none;
+    color: lightgreen;
+}
+
+#middle-section {
+    margin-left: 505px;
+    background-color: white;
+    height: 800px;
+    width: 900px;
+    margin-top: -107px;
+}
+
+#header {
+    color: forestgreen;
+    font-size: 80px;
+    margin-left: 180px;
+    padding-top: 170px;
+}
+
+#yoga-lady {
+    width: 30%;
+    height: 75%;
+    margin-left: 520px;
+    margin-top: -220px;
+}
+
+#purple-line {
+    
+    height: 10px;
+    width: 120px;
+    /*background-color: mediumpurple;*/
+    background-color: #D3A3FF;
+    margin-left: 235px;
+    margin-top: -370px;
+}
+
+#under-header {
+  color: forestgreen;
+    font-size: 70px;
+    margin-left: 160px;
+    margin-top: -370px;
+    
+}
+
+#footer-address {
+    text-align: center;
+    margin-left: -445px; 
+    padding-top: 5px;
+    color: lightgreen; 
+    font-size: 25px;
+}
+
+
+#footer-content {
+    text-align: center;
+    margin-left: -565px;
+    margin-top: -20px;
+    color: white;
+    font-size: 13px;
+}
+
+.social {
+    list-style-type: none;
+    text-align: center;
+    margin-top: -50px;
+    margin-left: 720px;
+}
+
+.social li {
+    display: inline;
+}
+
+.social i {
+    font-size: 200%;
+    margin: -90px;
+    padding: 5% 5% 5% 4%;
+    color: #99FA99;
+}
+
+.social i:hover {
+    color: darkgreen;
+}
+
+
+
+
+
+
+
+
